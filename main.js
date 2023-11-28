@@ -13,8 +13,8 @@ const params = {
 };
 
 const params1 = {
-  partner_id: '0355554761',
-  partner_key: '002e95ad1988fa14506600acd85b4ea0',
+  partner_id: '29786780548',
+  partner_key: '31582b01caee025e87d56701111ee07f',
 };
 
 let lastRequestTime = 0;
